@@ -26,6 +26,7 @@ import com.weixin.utils.XmlUtil;
  */
 public class WeixinAct {
 
+	
 	/**
 	 * 
 	 * @param signature
