@@ -366,6 +366,7 @@ public class WeixinUtil {
 					String params = eventKey;
 					// 得到商品id和活动id 生成图文消息推送给用户
 
+					
 					/** 参考代码如下 
 					List<Article> articleList = new ArrayList<Article>();
 					// 创建图文消息
